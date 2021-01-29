@@ -6,6 +6,7 @@
 (\.|^)adgrx\.com$
 (\.|^)adj\.st$
 (\.|^)adjust\.com$
+(\.|^)adscale\.de$
 (\.|^)api\.amazon\.com$
 (\.|^)app-measurement\.com$
 (\.|^)appcenter\.ms$
@@ -14,21 +15,29 @@
 (\.|^)betchan-exclusive\.com$
 (\.|^)betchan\.com$
 (\.|^)betchanreg\.com$
+(\.|^)betwin\.de$
+(\.|^)betwin\.de\.com$
 (\.|^)big7\.com$
 (\.|^)bing\.com$
 (\.|^)bngpt\.com$
 (\.|^)bongacash\.com$
+(\.|^)bwin\.com$
+(\.|^)clickaine\.com$
 (\.|^)cookielaw\.org$
 (\.|^)dymatrix\.cloud$
+(\.|^)facebook\.com$
 (\.|^)facebook\.net$
 (\.|^)kameleoon\.eu$
 (\.|^)mateti\.net$
+(\.|^)meetrics\.net$
 (\.|^)mzstatic\.com$
 (\.|^)nativendo\.de$
 (\.|^)nonstopviews\.de$
 (\.|^)office\.com$
 (\.|^)omtrdc\.net$
+(\.|^)playamedia\.com$
 (\.|^)privacy-mgmt\.com$
+(\.|^)prodperfect\.com$
 (\.|^)radiantmediatechs\.com$
 (\.|^)scdn\.co$
 (\.|^)scene7\.com$
@@ -36,6 +45,7 @@
 (\.|^)singular\.net$
 (\.|^)solads\.media$
 (\.|^)stackpathdns\.com$
+(\.|^)stripst\.com$
 (\.|^)stroeerdigitalgroup\.de$
 (\.|^)stroeerdp\.de$
 (\.|^)svonm\.com$
@@ -52,11 +62,6 @@
 (\.|^)wbtrk\.net$
 (\.|^)wcfbc\.net$
 (\.|^)webtrekk\.net$
-(\.|^)adscale\.de$
-(\.|^)clickaine\.com$
-(\.|^)facebook\.com$
-(\.|^)meetrics\.net$
-(\.|^)playamedia\.com$
 (\.|^)yieldlove-ad-serving\.net$
 a2az-api.golem.de
 a2az-content.golem.de
@@ -66,6 +71,7 @@ badges-content.teamspeak.com
 getpocket.cdn.mozilla.net
 img-getpocket.cdn.mozilla.net
 metrics.icloud.com
+motd.ubuntu.com
 redbull.com
 redirect.golem.de
 rtbsuperhub.com
@@ -78,15 +84,19 @@ weblist.teamspeak.com
 
 (\.|^)arte\.tv$
 (\.|^)br\.de$
+(\.|^)dazn\.com$
 (\.|^)disney-plus\.net$
-(\.|^)hbbtv.ardmediathek\.de$
+(\.|^)hbbtv\.ardmediathek\.de$
 (\.|^)hbbtv\.zdf\.de$
 (\.|^)itsmy\.tv$
+(\.|^)itv\.ard\.de$
 (\.|^)kicker\.de$
 (\.|^)kika\.de$
 (\.|^)ran\.de$
 (\.|^)redbull\.tv$
+(\.|^)redbutton\.de$
 (\.|^)rtl-hbbtv\.de$
+(\.|^)samsung-highlights\.ardmediathek\.de$
 (\.|^)samsungcloud\.tv$
 (\.|^)samsungcloudsolution\.com$
 (\.|^)samsungcloudsolution\.net$
@@ -95,22 +105,18 @@ weblist.teamspeak.com
 (\.|^)samsungotn\.net$
 (\.|^)samsungqbe\.com$
 (\.|^)servustv\.com$
-(\.|^)welt\.de$
-(\.|^)dazn\.com$
-(\.|^)itv.ard\.de$
-(\.|^)redbutton\.de$
-(\.|^)samsung-highlights.ardmediathek\.de$
 (\.|^)smartclip\.net$
+(\.|^)welt\.de$
 
 
 # Porn Advertising
 
-(\.|^)hot-denise\.de$
-(\.|^)visit-x\.net$
 (\.|^)bookofsex\.com$
+(\.|^)hot-denise\.de$
 (\.|^)mydirtyhobby\.com$
 (\.|^)mydirtyhobby\.de$
 (\.|^)secretdatingclub\.com$
+(\.|^)visit-x\.net$
 (\.|^)webcamnudez\.com$
 (\.|^)webcamsporno\.net$
 (\.|^)webcamspornoxxx\.com$
@@ -124,10 +130,10 @@ alpha.telemetry.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
-db5.vortex.data.microsoft.com.akadns.net,
+db5.vortex.data.microsoft.com.akadns.net
 eu.vortex-win.data.microsoft.com
 geo.settings-win.data.microsoft.com.akadns.net
-geo.vortex.data.microsoft.com.akadns.net,
+geo.vortex.data.microsoft.com.akadns.net
 mrodevicemgr.officeapps.live.com
 oca.telemetry.microsoft.com
 officeclient.microsoft.com
@@ -138,10 +144,11 @@ telemetry.urs.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 urs.microsoft.com.nsatc.net
 us.vortex-win.data.microsoft.com
-v10-win.vortex.data.microsft.com.akadns.net,
+v10-win.vortex.data.microsft.com.akadns.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsft.com
 vortex-win-sandbox.data.microsoft.com
+vortex.data.microsoft.com
 vsgallery.com
 watson.live.com
 watson.microsoft.com
