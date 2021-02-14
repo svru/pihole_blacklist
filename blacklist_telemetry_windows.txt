@@ -1,0 +1,32 @@
+# Telemetry Windows - Pi-hole Blacklist
+# https://github.com/svru
+
+alpha.telemetry.microsoft.com
+asimov-win.settings.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+db5.settings-win.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+eu.vortex-win.data.microsoft.com
+geo.settings-win.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+mrodevicemgr.officeapps.live.com
+oca.telemetry.microsoft.com
+officeclient.microsoft.com
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+telemetry.remoteapp.windowsazure.com
+telemetry.urs.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+urs.microsoft.com.nsatc.net
+us.vortex-win.data.microsoft.com
+v10-win.vortex.data.microsft.com.akadns.net
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsft.com
+vortex-win-sandbox.data.microsoft.com
+vortex.data.microsoft.com
+vsgallery.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+win8.ipv6.microsoft.com
